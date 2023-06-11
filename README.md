@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2022/04/01/09/08/particles-7104407_1280.jpg)
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Dibyajyoti Mahuri</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/labs/images/api.gif">
