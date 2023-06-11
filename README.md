@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Dibyajyoti Mahuri</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" height="200" src="https://media.giphy.com/labs/images/api.gif">
+<img align="right" alt="coding" width="400" height="200" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyoti79&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyoti79" /> </p>
