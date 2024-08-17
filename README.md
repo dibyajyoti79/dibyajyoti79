@@ -1,33 +1,57 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Dibyajyoti Mahuri</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" height="200" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
+<h1 align="left">Hi 👋, I'm Dibyajyoti Mahuri <img height="50px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" /></h1>
+<h3 align="left">A passionate Backend Developer and DevOps Enthusiast from India</h3>
 
+I'm a **developer** with a strong focus on **Backend Development**. I primarily work with **Node.js** and **Go**, and I'm currently expanding my skills in **DevOps**. My passion is in creating reliable and scalable systems, and I enjoy learning about new technologies that enhance my development process. I'm always eager to collaborate on interesting projects and contribute to open-source communities.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyoti79&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyoti79" /> </p>
+[![GitHub Follow](https://img.shields.io/github/followers/dibyajyoti79?label=Follow&style=social)](https://github.com/dibyajyoti79)
+[![LinkedIn](https://img.shields.io/badge/-Dibyajyoti-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdibyajyoti/)](https://www.linkedin.com/in/mdibyajyoti/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/dibyajyoti__)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dibyajyotimahuri/)
+![Visitors](https://komarev.com/ghpvc/?username=dibyajyoti79&color=blue&style=badge&label=Visitors)
 
-- 🔭 I’m currently working on **Travel Website**
+- 🔭 I’m currently working as **Full Stack Developer**.
+- 🌱 I’m currently learning **DevOps Practices**.
+- 👯 I’m looking to collaborate on **backend projects**.
+- 🤝 I’m open to help with **JavaScript and Go projects**.
+- 👨‍💻 All of my projects are available **[here](https://github.com/dibyajyoti79)**
+- 📫 How to reach me **[Mail Here](mailto:code.dibya@gmail.com)**
 
-- 🌱 I’m currently learning **TypeScript**
+---
 
-- 💬 Ask me about **MERN**
+## 💡 Skills
+  
+### 👨‍💻 **Programming Languages**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=badge&logo=typescript&logoColor=white)
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=badge&logo=go&logoColor=white)
+  
+### 🚀 **Technologies/Frameworks**
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=badge&logo=docker&logoColor=white)
+  
+### 🛠️ **Developer Tools**
+  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=Postman&logoColor=white)
+  
+### 🌐 **Platforms**
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black)
+![Web](https://img.shields.io/badge/Web-4285F4?style=badge&logo=Google-chrome&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=badge&logo=windows&logoColor=white)
+  
+---
 
-- 📫 How to reach me **code.dibya@gmail.com**
+## 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dibyajyoti79&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mdibyajyoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdibyajyoti" height="30" width="40" /></a>
-<a href="https://instagram.com/dibyajyotii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibyajyotii_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dibyajyoti79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dibyajyoti79" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dibyajyotimahuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dibyajyotimahuri" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyoti79&show_icons=true&locale=en&layout=compact" alt="dibyajyoti79" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyoti79&show_icons=true&locale=en" alt="dibyajyoti79" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyajyoti79&" alt="dibyajyoti79" /></p>
+:pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/dibyajyoti79/dibyajyoti79)** :pencil:
