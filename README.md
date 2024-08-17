@@ -5,7 +5,7 @@ I'm a **developer** with a strong focus on **Backend Development**. I primarily 
 
 [![GitHub Follow](https://img.shields.io/github/followers/dibyajyoti79?label=Follow&style=social)](https://github.com/dibyajyoti79)
 [![LinkedIn](https://img.shields.io/badge/-Dibyajyoti-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdibyajyoti/)](https://www.linkedin.com/in/mdibyajyoti/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/dibyajyotii__)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/dibyajyotii_/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dibyajyotimahuri/)
 ![Visitors](https://komarev.com/ghpvc/?username=dibyajyoti79&color=blue&style=badge&label=Visitors)
 
