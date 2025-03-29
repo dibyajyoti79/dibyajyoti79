@@ -26,6 +26,8 @@ I'm a **backend engineer** focused on designing **scalable and high-performance 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=badge&logo=typescript&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=badge&logo=c%2b%2b&logoColor=white)
   
 ### 🚀 **Technologies/Frameworks**
 
