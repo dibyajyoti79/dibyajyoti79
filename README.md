@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dibyajyoti Mahuri <img height="50px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" /></h1>  
-<h3 align="left">A Passionate Backend Engineer from India</h3>  
+<h3 align="left">A Passionate Fullstack Developer from India</h3>  
 
-I'm a **backend engineer** focused on designing **scalable and high-performance backend systems**. I primarily work with **Node.js and Go**, leveraging **MongoDB, MySQL, and PostgreSQL** for data management. I love solving complex backend challenges, optimizing system performance, and exploring **system design & cloud infrastructure**.  
-
+I'm a **fullstack developer** who enjoys building **scalable and high-performance applications**. On the **backend**, I work with **Node.js and Go**, using **MongoDB, MySQL, and PostgreSQL** for data management. On the **frontend**, I work with **React.js and Next.js**, crafting responsive and user-friendly interfaces. I enjoy solving complex problems end-to-end, from API design to deployment, while exploring **system design, DevOps, and cloud infrastructure**.  
 
 [![GitHub Follow](https://img.shields.io/github/followers/dibyajyoti79?label=Follow&style=social)](https://github.com/dibyajyoti79)
 [![LinkedIn](https://img.shields.io/badge/-Dibyajyoti-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdibyajyoti/)](https://www.linkedin.com/in/mdibyajyoti/)
@@ -10,13 +9,12 @@ I'm a **backend engineer** focused on designing **scalable and high-performance 
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dibyajyotimahuri/)
 ![Visitors](https://komarev.com/ghpvc/?username=dibyajyoti79&color=blue&style=badge&label=Visitors)
 
-
-- 🔭 I’m currently working as a **Backend Engineer**.  
+- 🔭 I’m currently working as a **Fullstack Developer**.  
 - 🌱 I’m currently expanding my skills in **system design, distributed systems, and DevOps**.  
-- 👯 I’m looking to collaborate on **backend and cloud-based projects**.  
-- 🤝 I’m open to helping with **Node.js, Go, databases, and backend architecture**.  
+- 👯 I’m looking to collaborate on **web apps, backend systems, and cloud-based projects**.  
+- 🤝 I’m open to helping with **Node.js, Go, React.js, databases, and backend/frontend architecture**.  
 - 👨‍💻 All of my projects are available **[here](https://github.com/dibyajyoti79)**.  
-- 📫 How to reach me: **[Mail Here](mailto:code.dibya@gmail.com)**.
+- 📫 How to reach me: **[Mail Here](mailto:code.dibya@gmail.com)**.  
 
 
 ## 💡 Skills
