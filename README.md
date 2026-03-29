@@ -1,17 +1,19 @@
-# 👋 Hi, I’m Dibyajyoti Mahuri  
+# 👋 Hi, I’m Dibyajyoti Mahuri
 
-### ⚡ Frontend Engineer | React.js • Next.js • JavaScript | Backend (Node.js, Go)
+### ⚡ Full Stack Engineer | React.js • Next.js • Node.js • Go
 
-🌍 From India | 💻 Building scalable web applications | 🚀 Always learning & improving  
+🌍 From India | 💻 Building scalable web applications | 🚀 Always learning & improving
 
 ---
 
-## 🔥 What I Do  
-- 🛠️ Build **scalable, high-performance frontend applications**  
-- ⚛️ Work with **React.js, Next.js, and modern JavaScript**  
-- ⚡ Focus on **performance optimization, clean UI architecture, and user experience**  
-- 🔗 Integrate **APIs and handle complex data flows efficiently**  
-- 🧠 Have backend experience with **Node.js & Go**, building REST APIs and microservices  
+## 🔥 What I Do
+
+* 🛠️ Build **end-to-end scalable web applications (frontend + backend)**
+* ⚛️ Develop modern UIs using **React.js, Next.js, and TypeScript**
+* 🔧 Design and build **robust backend systems with Node.js & Go**
+* ⚡ Focus on **performance, scalability, and clean architecture**
+* 🔗 Create and integrate **REST APIs & microservices**
+* 🧠 Handle **complex data flows, caching, and system design**
 
 ---
 
