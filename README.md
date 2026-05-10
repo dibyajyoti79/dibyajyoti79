@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dibyajyoti Mahuri
 
-### ⚡ Full Stack Engineer | React.js • Next.js • Node.js • Go
+### ⚡ Full Stack Engineer | React.js • Next.js • Node.js • Express.js • Go
 
 🌍 From India | 💻 Building scalable web applications | 🚀 Always learning & improving
 
