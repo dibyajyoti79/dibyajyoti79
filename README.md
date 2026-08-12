@@ -1,43 +1,64 @@
+<div align="center">
+
 # 👋 Hi, I’m Dibyajyoti Mahuri
 
 ### ⚡ Full Stack Engineer | React.js • Next.js • Node.js • Express.js • Go
 
 🌍 From India | 💻 Building scalable web applications | 🚀 Always learning & improving
 
+</div>
+
 ---
 
 ## 🔥 What I Do
 
-* 🛠️ Build **end-to-end scalable web applications (frontend + backend)**
+* 🛠️ Build **end-to-end web applications**
 * ⚛️ Develop modern UIs using **React.js, Next.js, and TypeScript**
-* 🔧 Design and build **robust backend systems with Node.js & Go**
+* 🔧 Build **backend systems, APIs, and services** with Node.js and Go
 * ⚡ Focus on **performance, scalability, and clean architecture**
-* 🔗 Create and integrate **REST APIs & microservices**
-* 🧠 Handle **complex data flows, caching, and system design**
+* 🔗 Design and integrate **REST APIs and microservices**
+* 🧠 Work with **databases, caching, and system design**
 
 ---
 
-## 🧰 Tech Toolbox  
+### 🛠 Tech Stack
 
-| **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Platforms** |
-|---------------|--------------|-------------|---------------|------------------------|
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![GoFiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+**Languages:**<br>
+`JavaScript` · `TypeScript` · `Go`
 
----
+**Web & Frameworks:**<br>
+`React.js` · `React Native` · `Next.js` · `Node.js` · `Express.js` · `Go Fiber` · `Tailwind CSS`
 
-## 📊 GitHub Stats  
+**Database & Cloud:**<br>
+`MongoDB` · `MySQL` · `PostgreSQL` · `Redis` · `Firebase`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dibyajyoti79&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dibyajyoti79&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+**Tools:**<br>
+`Git` · `GitHub` · `Docker` · `Postman` · `Vite` · `Prisma` · `Sequelize`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,redis,firebase,git,github,docker,postman,vite,prisma" />
 </p>
 
 ---
 
-## 🤝 Connect With Me  
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdibyajyoti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:code.dibya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img
+    src="https://streak-stats.demolab.com?user=dibyajyoti79&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdibyajyoti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:code.dibya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
